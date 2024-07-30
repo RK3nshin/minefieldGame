@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "test"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "/home/guilbertwilkerson/Documentos/Prog/CampoMinado/lib/junit-platform-console-standalone-1.11.0-M2.jar"
+    ]
+}
